@@ -161,7 +161,7 @@ Mentor: Runa Bhattacharjee <runabh@gmail.com>")
   ((G-l) "ৢ")				; 09E2
   ((G-k) "ৣ")				; 09E3
   ((G-r) "ৰ")				; 09F0
-  ((G-t) "ৱ")				; 09F1
+  ((G-w) "ৱ")				; 09F1
   ((G-y) "৲")				; 09F2
   ((G-$) "৳")				; 09F3
   ((G-!) "৴")				; 09F4
